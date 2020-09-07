@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yifeng&#39;s Homepage</title>
+    <link>Whisper-Cao.github.io/</link>
+      <atom:link href="Whisper-Cao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yifeng&#39;s Homepage</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 29 Aug 2020 22:18:07 -0400</lastBuildDate>
+    <image>
+      <url>/Whisper-Cao.github.io/images/icon_hu6e174ec2851070ba2dae33198a8ad438_55070_512x512_fill_lanczos_center_2.png</url>
+      <title>Yifeng&#39;s Homepage</title>
+      <link>Whisper-Cao.github.io/</link>
+    </image>
+    
+    <item>
+      <title>(Poster) Homecoming: A Wireless Homing Device for UAVs</title>
+      <link>Whisper-Cao.github.io/publication/homecoming-poster/</link>
+      <pubDate>Sat, 29 Aug 2020 22:18:07 -0400</pubDate>
+      <guid>Whisper-Cao.github.io/publication/homecoming-poster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>6Fit-A-Part: A Protocol for Physical Distancing on a Custom Wearable Device</title>
+      <link>Whisper-Cao.github.io/publication/6fit-a-apart/</link>
+      <pubDate>Sat, 29 Aug 2020 22:04:02 -0400</pubDate>
+      <guid>Whisper-Cao.github.io/publication/6fit-a-apart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forward the Collision Decomposition in ZigBee</title>
+      <link>Whisper-Cao.github.io/publication/forward/</link>
+      <pubDate>Tue, 03 Sep 2019 18:24:57 -0400</pubDate>
+      <guid>Whisper-Cao.github.io/publication/forward/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mrs.Z: Improving ZigBee Throughput via Multi-Rate Transmission</title>
+      <link>Whisper-Cao.github.io/publication/mrsz/</link>
+      <pubDate>Sun, 03 Sep 2017 18:25:41 -0400</pubDate>
+      <guid>Whisper-Cao.github.io/publication/mrsz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EHR: routing protocol for energy harvesting wireless sensor networks</title>
+      <link>Whisper-Cao.github.io/publication/ehr/</link>
+      <pubDate>Sat, 03 Sep 2016 18:26:00 -0400</pubDate>
+      <guid>Whisper-Cao.github.io/publication/ehr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

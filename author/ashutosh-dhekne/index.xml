@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ashutosh Dhekne | Yifeng&#39;s Homepage</title>
+    <link>Whisper-Cao.github.io/author/ashutosh-dhekne/</link>
+      <atom:link href="Whisper-Cao.github.io/author/ashutosh-dhekne/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ashutosh Dhekne</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 29 Aug 2020 22:18:07 -0400</lastBuildDate>
+    <image>
+      <url>/Whisper-Cao.github.io/images/icon_hu6e174ec2851070ba2dae33198a8ad438_55070_512x512_fill_lanczos_center_2.png</url>
+      <title>Ashutosh Dhekne</title>
+      <link>Whisper-Cao.github.io/author/ashutosh-dhekne/</link>
+    </image>
+    
+    <item>
+      <title>(Poster) Homecoming: A Wireless Homing Device for UAVs</title>
+      <link>Whisper-Cao.github.io/publication/homecoming-poster/</link>
+      <pubDate>Sat, 29 Aug 2020 22:18:07 -0400</pubDate>
+      <guid>Whisper-Cao.github.io/publication/homecoming-poster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>6Fit-A-Part: A Protocol for Physical Distancing on a Custom Wearable Device</title>
+      <link>Whisper-Cao.github.io/publication/6fit-a-apart/</link>
+      <pubDate>Sat, 29 Aug 2020 22:04:02 -0400</pubDate>
+      <guid>Whisper-Cao.github.io/publication/6fit-a-apart/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
